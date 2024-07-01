@@ -1,3 +1,4 @@
+//reutgerber@gmail.com
 #include "develope_card.hpp"
 #include "player.hpp"
 #include "board.hpp"
