@@ -1,3 +1,4 @@
+//reutgerber@gmail.com
 #include "board.hpp"
 #include "hexagon.hpp"
 #include <iostream>
