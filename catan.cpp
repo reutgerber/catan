@@ -1,3 +1,4 @@
+//reutgerber@gmail.com
 #include "catan.hpp"
 #include "player.hpp"
 //#include "board.hpp"
