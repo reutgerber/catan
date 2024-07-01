@@ -1,3 +1,4 @@
+//reutgerber@gmail.com
 #include "Vertex.hpp"
 
 #include <stdexcept>
