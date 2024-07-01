@@ -1,3 +1,4 @@
+//reutgerber@gmail.com
 #include "player.hpp"
 #include "catan.hpp"
 #include <random>
