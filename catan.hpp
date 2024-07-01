@@ -1,3 +1,4 @@
+//reutgerber@gmail.com
 #include "player.hpp"
 #include "board.hpp"
 namespace ariel {
