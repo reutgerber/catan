@@ -1,3 +1,4 @@
+//reutgerber@gmail.com
 #pragma once
 #include <vector>
 #include <random>
