@@ -1,3 +1,4 @@
+//reutgerber@gmail.com
 #include <gtest/gtest.h>
 #include "player.hpp"
 #include "board.hpp"
