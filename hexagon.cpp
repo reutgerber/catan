@@ -1,3 +1,4 @@
+//reutgerber@gmail.com
 #include "hexagon.hpp"
 #include <stdexcept>
 #include <time.h>
