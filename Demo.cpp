@@ -2,6 +2,7 @@
  * Demo file for Ex3.
  *
  */
+//reutgerber@gmail.com
 #include <iostream>
 #include <stdexcept>
 #include <vector>
