@@ -1,3 +1,4 @@
+//reutgerber@gmail.com
 #include "Edge.hpp"
 using namespace ariel;
 int Edge::loop = 0;
